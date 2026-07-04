@@ -1,1 +1,3 @@
-h
+This project explores a magnetic force sensing approach using a magnet-elastomer assembly, where applied force compresses the elastomer and shifts the magnet's position, altering the local magnetic field. The change in magnetic field in detected by mlx90393 sensor that is attached at the bottom of the setup.
+The base plate and mold were designed in SolidWorks to house the sensor components. COMSOL Multiphysics was used to simulate the magnetic field response to applied force, validating the sensing principle before physical prototyping and calibration.
+Links to both SolidWorks and COMSOL files have been attached in repo. 
